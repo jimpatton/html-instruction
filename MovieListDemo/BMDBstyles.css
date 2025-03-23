@@ -1,0 +1,27 @@
+header {
+    font-size: 48px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    border: 1px solid;
+    background-color: cornflowerblue;
+    padding: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 5px;
+    border: 1px solid;
+    background-color: black;
+}
+
+nav {
+    border-bottom: 1px solid;
+    margin-top: -1px;
+}
+
+nav a:hover {
+    background-color: cornflowerblue;
+}
